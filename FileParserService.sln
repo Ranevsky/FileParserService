@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileParserService", "FileParserService\FileParserService.csproj", "{009FE5C3-4516-4ACA-963C-C160A207CF68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToCSharp", "XmlToCSharp\XmlToCSharp.csproj", "{CA775FBD-63A7-4FB3-9BF2-8FF7215D4A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToJson", "XmlToJson\XmlToJson.csproj", "{8778E139-FF90-4769-BD0A-F72B1A4838A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009FE5C3-4516-4ACA-963C-C160A207CF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009FE5C3-4516-4ACA-963C-C160A207CF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009FE5C3-4516-4ACA-963C-C160A207CF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009FE5C3-4516-4ACA-963C-C160A207CF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA775FBD-63A7-4FB3-9BF2-8FF7215D4A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA775FBD-63A7-4FB3-9BF2-8FF7215D4A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA775FBD-63A7-4FB3-9BF2-8FF7215D4A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA775FBD-63A7-4FB3-9BF2-8FF7215D4A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8778E139-FF90-4769-BD0A-F72B1A4838A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8778E139-FF90-4769-BD0A-F72B1A4838A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8778E139-FF90-4769-BD0A-F72B1A4838A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8778E139-FF90-4769-BD0A-F72B1A4838A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
